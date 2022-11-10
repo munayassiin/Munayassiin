@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🤍, I'm Muna Yassiin</h1>
 <h3 align="center">A passionate Data Science Student from Norway</h3>
-<img align="center" alt="coding" width="1000" src="https://piskel-imgstore-b.appspot.com/img/64e9a9e6-610d-11ed-857f-03db15f35630.gif">
+<img align="center" alt="coding" width="1000" src="https://piskel-imgstore-b.appspot.com/img/5e068002-610f-11ed-a5c1-03db15f35630.gif">
 
 
 <h3 align="left">Connect with me:</h3>
@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munayassiin&show_icons=true&locale=en&layout=compact" alt="munayassiin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munayassiin&show_icons=true&locale=en" alt="munayassiin" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=munayassiin&show_icons=true&locale=en" alt="munayassiin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munayassiin&" alt="munayassiin" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=munayassiin&" alt="munayassiin" /></p>
