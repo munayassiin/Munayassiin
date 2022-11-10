@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🤍, I'm Muna Yassiin</h1>
 <h3 align="center">A passionate Data Science Student from Norway</h3>
-<img align="right" alt="coding" width="400" src="https://piskel-imgstore-b.appspot.com/img/64e9a9e6-610d-11ed-857f-03db15f35630.gif">
+<img align="center" alt="coding" width="700" src="https://piskel-imgstore-b.appspot.com/img/64e9a9e6-610d-11ed-857f-03db15f35630.gif">
 - 🌱 I’m currently learning **Python & Machine learning**
 
 - 📫 How to reach me **munayassiin@outlook.com**
